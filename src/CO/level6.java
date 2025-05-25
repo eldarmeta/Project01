@@ -1,3 +1,4 @@
+package CO;
 
 import java.util.Scanner;
 

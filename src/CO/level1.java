@@ -1,3 +1,5 @@
+package CO;
+
 import java.util.Scanner;
 
 public class level1 {
